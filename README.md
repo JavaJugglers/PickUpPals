@@ -1,7 +1,7 @@
 # PICKUP PALS
 
 ## Overview
-PICKUP PALS, a project under CS160 | SU23, is an innovative application designed to connect sports enthusiasts, aiming to foster unity and fun through sports. It offers a unique platform for athletes and sports fans, ranging from ex-professionals to beginners, to meet and play their favorite sports, including street soccer, football, tennis, and basketball.
+PICKUP PALS, is an innovative application designed to connect sports enthusiasts, aiming to foster unity and fun through sports. It offers a unique platform for athletes and sports fans, ranging from ex-professionals to beginners, to meet and play their favorite sports, including street soccer, football, tennis, and basketball.
 
 ---
 
